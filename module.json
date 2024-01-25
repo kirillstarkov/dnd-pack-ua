@@ -2,7 +2,7 @@
   "id": "dnd5e-lib-dices",
   "title": "Переклад DnD5e від команди Посиденьок з Дайсами",
   "description": "Додаткові бібліотеки з матеріалами по DnD5e українською",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "authors": [
     {
       "name": "xmdnssx",
@@ -97,6 +97,6 @@
       "flags": {}
     }
   ],
-  "manifest": "",
-  "download": ""
+  "manifest": "https://raw.githubusercontent.com/kirillstarkov/dnd-pack-ua/main/module.json",
+  "download": "https://github.com/kirillstarkov/dnd-pack-ua/releases/download/latest/dnd-pack-ua.zip"
 }
