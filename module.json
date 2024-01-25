@@ -1,0 +1,102 @@
+{
+  "id": "dnd5e-lib-dices",
+  "title": "Переклад DnD5e від команди Посиденьок з Дайсами",
+  "description": "Додаткові бібліотеки з матеріалами по DnD5e українською",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "xmdnssx",
+      "url": "",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "9",
+    "verified": "11.308"
+  },
+  "packs": [
+    {
+      "label": "Предмети [Dices]",
+      "type": "Item",
+      "name": "items-dices",
+      "path": "/packs/items-dices.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Чари [Dices]",
+      "type": "Item",
+      "name": "spells-dices",
+      "path": "packs/spells-dices.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Навички [Dices]",
+      "type": "Item",
+      "name": "skills-dices",
+      "path": "packs/skills-dices.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Класси [Dices]",
+      "type": "Item",
+      "name": "classes-dices",
+      "path": "packs/classes-dices.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Підкласси [Dices]",
+      "type": "Item",
+      "name": "subclasses-dices",
+      "path": "packs/subclasses-dices.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Риси [Dices]",
+      "type": "Item",
+      "name": "feats-dices",
+      "path": "packs/feats-dices.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Раси [Dices]",
+      "type": "Item",
+      "name": "races-dices",
+      "path": "packs/races-dices.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Передісторії [Dices]",
+      "type": "Item",
+      "name": "backgrounds-dices",
+      "path": "packs/backgrounds-dices.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Бестіарій [Dices]",
+      "type": "Actor",
+      "name": "bestiary-dices",
+      "path": "packs/bestiary-dices.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "manifest": "",
+  "download": ""
+}
