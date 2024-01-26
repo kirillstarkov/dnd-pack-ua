@@ -4,44 +4,50 @@
     <list default="true" id="cc3a4bbb-41b5-427f-8257-7b51fac0b596" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module.json" beforeDir="false" afterPath="$PROJECT_DIR$/module.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/backgrounds-dices/000004.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/backgrounds-dices/000016.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/backgrounds-dices/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/packs/backgrounds-dices/CURRENT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/backgrounds-dices/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/packs/backgrounds-dices/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/backgrounds-dices/MANIFEST-000002" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/bestiary-dices/000004.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/backgrounds-dices/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/packs/backgrounds-dices/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/backgrounds-dices/MANIFEST-000014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/bestiary-dices/000016.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/bestiary-dices/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/packs/bestiary-dices/CURRENT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/bestiary-dices/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/packs/bestiary-dices/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/bestiary-dices/MANIFEST-000002" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/classes-dices/000004.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/bestiary-dices/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/packs/bestiary-dices/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/bestiary-dices/MANIFEST-000014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/classes-dices/000016.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/classes-dices/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/packs/classes-dices/CURRENT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/classes-dices/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/packs/classes-dices/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/classes-dices/MANIFEST-000002" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/feats-dices/000004.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/classes-dices/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/packs/classes-dices/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/classes-dices/MANIFEST-000014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/feats-dices.db" beforeDir="false" afterPath="$PROJECT_DIR$/packs/feats-dices.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/feats-dices/000005.ldb" beforeDir="false" afterPath="$PROJECT_DIR$/packs/feats-dices/000005.ldb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/feats-dices/000016.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/feats-dices/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/packs/feats-dices/CURRENT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/feats-dices/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/packs/feats-dices/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/feats-dices/MANIFEST-000002" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/items-dices/000004.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/feats-dices/LOG.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/feats-dices/MANIFEST-000014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/items-dices/000016.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/items-dices/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/packs/items-dices/CURRENT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/items-dices/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/packs/items-dices/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/items-dices/MANIFEST-000002" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/races-dices/000004.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/races-dices/000005.ldb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/items-dices/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/packs/items-dices/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/items-dices/MANIFEST-000014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/races-dices.db" beforeDir="false" afterPath="$PROJECT_DIR$/packs/races-dices.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/races-dices/000016.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/races-dices/000018.ldb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/races-dices/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/packs/races-dices/CURRENT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/races-dices/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/packs/races-dices/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/races-dices/MANIFEST-000002" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/skills-dices/000004.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/skills-dices/000005.ldb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/skills-dices/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/packs/skills-dices/CURRENT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/skills-dices/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/packs/skills-dices/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/skills-dices/MANIFEST-000002" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/spells-dices/000004.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/races-dices/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/packs/races-dices/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/races-dices/MANIFEST-000014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/spells-dices/000016.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/spells-dices/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/packs/spells-dices/CURRENT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/spells-dices/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/packs/spells-dices/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/spells-dices/MANIFEST-000002" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/subclasses-dices/000004.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/spells-dices/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/packs/spells-dices/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/spells-dices/MANIFEST-000014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/subclasses-dices/000016.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/subclasses-dices/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/packs/subclasses-dices/CURRENT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packs/subclasses-dices/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/packs/subclasses-dices/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packs/subclasses-dices/MANIFEST-000002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/subclasses-dices/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/packs/subclasses-dices/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packs/subclasses-dices/MANIFEST-000014" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +92,8 @@
       <workItem from="1706195559114" duration="609000" />
       <workItem from="1706198489430" duration="1035000" />
       <workItem from="1706262819648" duration="3000" />
-      <workItem from="1706262830834" duration="16000" />
+      <workItem from="1706262830834" duration="58000" />
+      <workItem from="1706265287741" duration="50000" />
     </task>
     <servers />
   </component>
